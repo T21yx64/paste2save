@@ -26,4 +26,5 @@ taskkill /F /IM mspaint.exe
 
 rem open location
 start %place%
+start focusexplorer.vbs
 timeout 3 /nobreak
