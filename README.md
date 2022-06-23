@@ -1,7 +1,9 @@
 paste2save_v2.2 aka Paste To Save.
 
 A simple free Utility app that pastes clipboard image to paint 
+
 and then saves it as png to your location.
+
 by overwriting or creating a new file as desired.
 
 How it works?
