@@ -1,12 +1,12 @@
-paste2save_v2.2 aka Paste To Save.
+#paste2save_v2.2 aka Paste To Save.
 
-A simple free Utility app that pastes clipboard image to paint 
+*A simple free Utility app that pastes clipboard image to paint*
 
-and then saves it as png to your location.
+*and then saves it as png to your location.*
 
-by overwriting or creating a new file as desired.
+*by overwriting or creating a new file as desired.*
 
-How it works?
+**How it works?**
 
 Make shortcut for beautification and quick easy trigger using shortcut key.
 
@@ -20,23 +20,23 @@ You can repeat the process without inputting location every time
 and image will be overwritten.
 You can eliminate few lines of code by including address directly in the bat-file
 
-Can we change .png format?
+**Can we change .png format?**
 
 If you rename x.png to any desired filename/format like xyz.jpg
 the program may not work accordingly.
 To fix that simply also edit line 8 an 15 in savepaster.vbs & savepasterwr.vbs respectively.
 to replace x.png with your desired filename.
 
-Location.txt?
+**Location.txt?**
 
 Location.txt contains the address location 
 of the place where you want to store the image
 should have no spaces
 and should be preferably small (in length).
 
-No Need to input every time. image will be overwritten.
+**No Need to input every time. image will be overwritten.**
 
-Troubleshoot?
+**Troubleshoot?**
 
 Since its automated key sequence, 
 there are delays between keypresses.
@@ -47,7 +47,7 @@ Thus, you could iterate these delays yourself to match the speed of your compute
 I tried to include comments in code which can be removed of course
 and code can be considerably shortened.
 
-I hope this helps & If you face any problem dm..
+*I hope this helps & If you face any problem dm..*
 
 Future:
 
