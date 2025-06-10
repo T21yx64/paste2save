@@ -1,3 +1,6 @@
+(outdated)
+
+
 **paste2save_v2.5 aka Paste To Save.**
 
 *A simple free Utility app that pastes clipboard image to paint*
