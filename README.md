@@ -56,4 +56,4 @@ Future:
 
 ~~In version 2 I will hope to create random variable for image saved so that image saved is not overwritten without choice.~~ (Done)
 
-In version 3 I hope to be able to automate copying images from browser and saving multiple images without intervention easily.
+In version 3 I hope to be able to automate copying images from browser and saving multiple images without intervention easily, and ofcourse run it error free on win11.
